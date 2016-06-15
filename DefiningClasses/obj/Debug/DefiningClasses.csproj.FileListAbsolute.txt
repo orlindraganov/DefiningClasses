@@ -1,1 +1,5 @@
 D:\Orlinovski Tapotii\DefiningClasses\DefiningClasses\bin\Debug\DefiningClasses.exe.config
+D:\Orlinovski Tapotii\DefiningClasses\DefiningClasses\bin\Debug\DefiningClasses.exe
+D:\Orlinovski Tapotii\DefiningClasses\DefiningClasses\bin\Debug\DefiningClasses.pdb
+D:\Orlinovski Tapotii\DefiningClasses\DefiningClasses\obj\Debug\DefiningClasses.exe
+D:\Orlinovski Tapotii\DefiningClasses\DefiningClasses\obj\Debug\DefiningClasses.pdb

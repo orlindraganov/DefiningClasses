@@ -1,7 +1,6 @@
 ﻿namespace DefiningClasses.Classes
 {
-
-    internal enum BatteryType
+    public enum BatteryType
     {
         LiIon,
         NiMh,

@@ -45,8 +45,11 @@
   <ItemGroup>
     <Compile Include="Classes\Battery.cs" />
     <Compile Include="Classes\BatteryType.cs" />
+    <Compile Include="Classes\Call.cs" />
     <Compile Include="Classes\Display.cs" />
-    <Compile Include="Classes\GSM.cs" />
+    <Compile Include="Classes\Gsm.cs" />
+    <Compile Include="Classes\GsmCallHistoryTest.cs" />
+    <Compile Include="Classes\GsmTest.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
